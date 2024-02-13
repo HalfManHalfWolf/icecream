@@ -1,0 +1,5 @@
+C:\Users\cam599\Documents\GitHub\PetsOOP\icecream\icecream\obj\Debug\net8.0\icecream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cam599\Documents\GitHub\PetsOOP\icecream\icecream\obj\Debug\net8.0\icecream.AssemblyInfoInputs.cache
+C:\Users\cam599\Documents\GitHub\PetsOOP\icecream\icecream\obj\Debug\net8.0\icecream.AssemblyInfo.cs
+C:\Users\cam599\Documents\GitHub\PetsOOP\icecream\icecream\obj\Debug\net8.0\icecream.csproj.CoreCompileInputs.cache
+C:\Users\cam599\Documents\GitHub\PetsOOP\icecream\icecream\obj\Debug\net8.0\icecream.sourcelink.json
